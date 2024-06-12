@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&text=Hi!%20I'm%20A_Ram&animation=fadeIn&fontColor=ffffff&fontSize=70" />
     </div>
