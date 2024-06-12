@@ -5,7 +5,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 새로운 기술을 배우고 발전하는 데 항상 열려 있는 오아람입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 새로운 기술과 도구에 대한 학습을 즐깁니다.</li><li> 책임감을 가지고 프로젝트에 임합니다.</li><li> 팀과의 명확하고 효율적인 커뮤니케이션을 중요시합니다.</li></li></li> </div> 
 
-           함께 성장하고 배우는 기회를 기대합니다! 
+           <div>함께 성장하고 배우는 기회를 기대합니다!</div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
