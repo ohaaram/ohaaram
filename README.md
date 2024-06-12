@@ -3,6 +3,7 @@
 
 
 ![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <!--
 **ohaaram/ohaaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
