@@ -3,43 +3,6 @@
 </div>
 
 <div align="center">
-    <div class="typewriter">
-        <h1>Hi! I'm A_Ram</h1>
-    </div>
-</div>
-
-<style>
-@keyframes typing {
-    from { width: 0; }
-    to { width: 100%; }
-}
-
-@keyframes blink-caret {
-    from, to { border-color: transparent; }
-    50% { border-color: white; }
-}
-
-.typewriter h1 {
-    overflow: hidden; 
-    border-right: .15em solid white; 
-    white-space: nowrap; 
-    margin: 0 auto; 
-    letter-spacing: .15em; 
-    animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
-    font-size: 70px;
-    color: white;
-    font-family: 'Courier New', Courier, monospace;
-    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-</style>
-
-
-
-
-
-<div align="center">
     <h2 style="border-bottom: 2px solid #d8dee4; color: #282d33; margin: 20px 0;">안녕하세요! 백엔드 개발자를 꿈꾸는 오아람입니다!</h2>
     <p style="font-weight: 700; font-size: 18px; color: #282d33;">
         🌱 새로운 기술과 도구에 대한 학습을 즐깁니다.<br>
