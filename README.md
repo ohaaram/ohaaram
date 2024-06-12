@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Hi!%20I'm%20A_Ram&fontColor=ffffff&fontSize=70&animation=fadeIn" />
 </div>
 
-<div align="center" style="margin: 20px 0;">
-    <h2 style="background: #f0f0f0; padding: 10px 20px; border-radius: 8px; display: inline-block; color: #282d33;">안녕하세요! 백엔드 개발자를 꿈꾸는 오아람입니다!</h2>
+<div align="center" style="margin: 40px 0;">
+    <h2 style="background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%); -webkit-background-clip: text; color: transparent; font-size: 2.5em; font-family: 'Arial', sans-serif;">안녕하세요! 백엔드 개발자를 꿈꾸는 오아람입니다!</h2>
     <p style="font-weight: 700; font-size: 18px; color: #282d33; max-width: 600px; margin: 20px auto; line-height: 1.6;">
         🌱 새로운 기술과 도구에 대한 학습을 즐깁니다.<br>
         🔥 책임감을 가지고 프로젝트에 임합니다.<br>
@@ -12,7 +12,7 @@
 </div>
 
 <div align="center" style="margin: 30px 0;">
-    <h2 style="background: #f0f0f0; padding: 10px 20px; border-radius: 8px; display: inline-block; color: #282d33;">🛠️ Tech Stacks</h2>
+    <h2 style="background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%); -webkit-background-clip: text; color: transparent; font-size: 2.5em; font-family: 'Arial', sans-serif;">🛠️ Tech Stacks</h2>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 20px;">
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" alt="AWS">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
@@ -31,7 +31,7 @@
 </div>
 
 <div align="center" style="margin: 30px 0;">
-    <h2 style="background: #f0f0f0; padding: 10px 20px; border-radius: 8px; display: inline-block; color: #282d33;">🏅 Stats</h2>
+    <h2 style="background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%); -webkit-background-clip: text; color: transparent; font-size: 2.5em; font-family: 'Arial', sans-serif;">🏅 Stats</h2>
     <div>
         <img src="https://github-readme-stats.vercel.app/api?username=ohaaram&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" alt="GitHub Stats" style="margin: 10px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohaaram&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" alt="Top Languages" style="margin: 10px;">
