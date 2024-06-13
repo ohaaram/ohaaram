@@ -9,12 +9,12 @@
         🔥 책임감을 가지고 프로젝트에 임합니다.<br>
         💬 팀과의 명확하고 효율적인 커뮤니케이션을 중요시합니다.<br>
         <p>
-        <a href="https://github.com/ohaaram/your-project-repo" style="font-size: 1.2em; font-weight: bold;">✨ 현재까지 한 프로젝트입니다! ✨</a>
+        <strong style="font-size: 1.2em;">✨ 현재까지 한 프로젝트입니다! ✨</strong>
+        </p>
             <ul style="list-style: none; padding: 0;">
         <li><a href="https://github.com/ohaaram/project1">프로젝트 1</a></li>
         <li><a href="https://github.com/ohaaram/project2">프로젝트 2</a></li>
-    </ul>
-    </p>
+            </ul>
     </p>
 </div>
 
