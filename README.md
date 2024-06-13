@@ -10,9 +10,13 @@
         💬 팀과의 명확하고 효율적인 커뮤니케이션을 중요시합니다.<br>
     </p>
     <p style="font-size: 1.2em; font-weight: bold;">✨ 현재까지 한 프로젝트입니다! ✨</p>
-    <ul style="list-style: none; padding: 0;">
-        <li><a href="https://github.com/ohaaram/project1">프로젝트 1</a></li>
-        <li><a href="https://github.com/ohaaram/project2">프로젝트 2</a></li>
+    <ul style="list-style: none; padding: 0; text-align: center;">
+        <li style="margin-bottom: 10px;">
+            <a href="https://github.com/ohaaram/project1" style="font-size: 1.2em; color: #333; text-decoration: none;">프로젝트 1</a>
+        </li>
+        <li style="margin-bottom: 10px;">
+            <a href="https://github.com/ohaaram/project2" style="font-size: 1.2em; color: #333; text-decoration: none;">프로젝트 2</a>
+        </li>
     </ul>
 </div>
 
