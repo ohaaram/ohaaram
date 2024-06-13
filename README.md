@@ -8,7 +8,9 @@
         🌱 새로운 기술과 도구에 대한 학습을 즐깁니다.<br>
         🔥 책임감을 가지고 프로젝트에 임합니다.<br>
         💬 팀과의 명확하고 효율적인 커뮤니케이션을 중요시합니다.<br>
-        <span style="font-size: 24px; font-weight: bold; color: #ff6347;">✨ 현재까지한 프로젝트입니다! ✨</span>
+         <p>
+        <strong style="font-size: 1.2em;">✨ 현재까지 한 프로젝트입니다! ✨</strong>
+    </p>
     </p>
 </div>
 
