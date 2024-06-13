@@ -8,14 +8,25 @@
         🌱 새로운 기술과 도구에 대한 학습을 즐깁니다.<br>
         🔥 책임감을 가지고 프로젝트에 임합니다.<br>
         💬 팀과의 명확하고 효율적인 커뮤니케이션을 중요시합니다.<br>
-        <p>
-        <strong style="font-size: 1.2em;">✨ 현재까지 한 프로젝트입니다! ✨</strong>
-        </p>
-            <ul style="list-style: none; padding: 0;">
-        <li><a href="https://github.com/ohaaram/project1">프로젝트 1</a></li>
-        <li><a href="https://github.com/ohaaram/project2">프로젝트 2</a></li>
-            </ul>
-    </p>
+           <p style="font-size: 1.2em; font-weight: bold;">✨ 현재까지 한 프로젝트입니다! ✨</p>
+    <table style="width: 100%; max-width: 600px; margin: 0 auto; text-align: left; border-collapse: collapse;">
+        <thead>
+            <tr>
+                <th style="border-bottom: 2px solid #ddd; padding: 10px;">프로젝트명</th>
+                <th style="border-bottom: 2px solid #ddd; padding: 10px;">링크</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="border-bottom: 1px solid #ddd; padding: 10px;">프로젝트 1</td>
+                <td style="border-bottom: 1px solid #ddd; padding: 10px;"><a href="https://github.com/ohaaram/project1">GitHub 링크</a></td>
+            </tr>
+            <tr>
+                <td style="border-bottom: 1px solid #ddd; padding: 10px;">프로젝트 2</td>
+                <td style="border-bottom: 1px solid #ddd; padding: 10px;"><a href="https://github.com/ohaaram/project2">GitHub 링크</a></td>
+            </tr>
+        </tbody>
+    </table>
 </div>
 
 <div align="center" style="margin: 30px 0;">
