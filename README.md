@@ -11,8 +11,8 @@
     </p>
     <p style="font-size: 1.2em; font-weight: bold;">✨ 현재까지 한 프로젝트입니다! ✨</p>
     <div style="text-align: center;">
-        <a href="https://github.com/ohaaram/project1" style="font-size: 1.2em; color: #333; text-decoration: none; margin-bottom: 10px; display: block;">farmStory 프로젝트</a>
-        <a href="https://github.com/ohaaram/project2" style="font-size: 1.2em; color: #333; text-decoration: none; margin-bottom: 10px; display: block;">LotteON 프로젝트</a>
+        <a href="https://github.com/ohaaram/farmStory.git" style="font-size: 1.2em; color: #333; text-decoration: none; margin-bottom: 10px; display: block;">farmStory 프로젝트</a>
+        <a href="https://github.com/ohaaram/lotteshop.git" style="font-size: 1.2em; color: #333; text-decoration: none; margin-bottom: 10px; display: block;">LotteON 프로젝트</a>
     </div>
 </div>
 
