@@ -7,7 +7,8 @@
     <p style="font-weight: 700; font-size: 18px; color: #282d33; max-width: 600px; margin: 20px auto; line-height: 1.6;">
         🌱 새로운 기술과 도구에 대한 학습을 즐깁니다.<br>
         🔥 책임감을 가지고 프로젝트에 임합니다.<br>
-        💬 팀과의 명확하고 효율적인 커뮤니케이션을 중요시합니다.
+        💬 팀과의 명확하고 효율적인 커뮤니케이션을 중요시합니다.<br>
+        <span style="font-size: 24px; font-weight: bold; color: #ff6347;">✨ 현재까지한 프로젝트입니다! ✨</span>
     </p>
 </div>
 
@@ -37,19 +38,3 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohaaram&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" alt="Top Languages" style="margin: 10px;">
     </div>
 </div>
-
-    
-<!--
-**ohaaram/ohaaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
