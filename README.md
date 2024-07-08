@@ -13,7 +13,7 @@
     <div style="text-align: center;">
         <a href="https://github.com/ohaaram/farmStory.git" style="font-size: 1.2em; color: #333; text-decoration: none; margin-bottom: 10px; display: block;">farmStory 프로젝트(소규모 쇼핑몰+게시판)</a>
         <a href="https://github.com/ohaaram/lotteshop.git" style="font-size: 1.2em; color: #333; text-decoration: none; margin-bottom: 10px; display: block;">LotteON 프로젝트(쇼핑몰)</a>
-        <a href="https://github.com/ohaaram/zeropie.git" style="font-size: 1.2em; color: #333; text-decoration: none; margin-bottom: 10px; display: block;">Zeropie 프로젝트(그룹웨어)</a>
+        <a href="https://github.com/ohaaram/onepie.git" style="font-size: 1.2em; color: #333; text-decoration: none; margin-bottom: 10px; display: block;">Zeropie 프로젝트(그룹웨어)</a>
     </div>
 </div>
 
